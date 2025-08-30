@@ -1,0 +1,21 @@
+/* This is my Comment */
+h1 {
+  color: red;
+}
+
+#heading {
+  color: yellow;
+}
+#div2 {
+  color: blue;
+}
+.Special-Heading {
+  color: aqua;
+}
+p {
+  color: blueviolet;
+}
+#first,
+#second {
+  color: dodgerblue;
+}
